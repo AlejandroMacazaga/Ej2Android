@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ejercicio2_6</string>
+    <string name="camara1">Camara 1</string>
+    <string name="camara2">Camara 2</string>
+    <string name="luz1">Luz 1</string>
+    <string name="luz2">Luz 2</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ejercicio2_2</string>
+    <string name="label1">PRIMER valor</string>
+    <string name="label2">SEGUNDO valor</string>
+    <string name="label3">RESULTADO: </string>
+
+</resources>
